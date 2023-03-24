@@ -1,0 +1,11 @@
+/*.recipe-cards-container .single-recipe {
+    margin-left: .5rem;
+    margin-right: .5rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .recipe-cards-container .single-recipe {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+}*/
